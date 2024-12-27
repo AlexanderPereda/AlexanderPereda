@@ -12,11 +12,8 @@ Soy Alexander Pereda, un apasionado por el análisis de datos, la programación 
 
 ---
 
-## 🚀 Proyectos Destacados  
-Aquí algunos proyectos en los que he trabajado:  
-- [Índice de Riqueza basado en Activos](https://github.com/tu_usuario/proyecto-riqueza): Un análisis de datos socioeconómicos en Perú.  
-- [Peru Salud]([https://github.com/tu_usuario/peru-salud](https://alexanderpereda.github.io/enaho-23-400-salud/main.html)): Visualización de indicadores de salud usando Quarto y R.  
-- [Análisis Espacial de Luces Nocturnas](https://github.com/tu_usuario/luces-nocturnas): Proyecto sobre impacto de luces nocturnas en el desarrollo urbano.  
+## 🚀 Proyectos Destacados    
+- [Peru Salud]([https://github.com/tu_usuario/peru-salud](https://alexanderpereda.github.io/enaho-23-400-salud/main.html): Visualización de indicadores de salud usando Quarto y R.  
 
 
 ---
