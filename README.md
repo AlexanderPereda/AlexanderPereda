@@ -1,18 +1,18 @@
 
-# ¡Hola! 👋 Bienvenido a mi perfil de GitHub
+# ¡Hola! Bienvenido a mi perfil de GitHub
 
 Soy Alexander Pereda, un apasionado por el análisis de datos, la programación y Machine Learning. 🎓 Matemático y Analista de Datos.  
 
 ---
 
-## 💻 Tecnologías y Herramientas  
+## Tecnologías y Herramientas  
 - **Lenguajes:** Python 🐍 | R 📊 | SQL 🛢️  
 - **Visualización:** Power BI 📈 
 - **Otras:** Quarto, Git, Machine Learning 🤖  
 
 ---
 
-## 🚀 Proyectos Destacados    
+## Proyectos Destacados    
 - [Peru Salud]([https://github.com/tu_usuario/peru-salud](https://alexanderpereda.github.io/enaho-23-400-salud/main.html): Visualización de indicadores de salud usando Quarto y R.  
 
 
