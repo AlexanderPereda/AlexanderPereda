@@ -13,7 +13,7 @@ Soy Alexander Pereda, matemático y apasionado por el Machine Learning y la prog
 ---
 
 ## Proyectos Destacados    
-- Análisis sobre la conducta del peruano ante la enfermedad y/o malestar usando la Enaho 2023([https://github.com/tu_usuario/peru-salud](https://alexanderpereda.github.io/enaho-23-400-salud/main.html): Visualización de indicadores de salud usando Quarto y R.  
+- [¿A dónde va un peruano cuando se enferma?](https://github.com/tu_usuario/peru-salud](https://alexanderpereda.github.io/enaho-23-400-salud/main.html): Un análisis de salud de la ENAHO 2023.  
 
 
 ---
