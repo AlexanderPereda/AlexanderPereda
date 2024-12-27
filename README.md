@@ -1,7 +1,7 @@
 
 # ¡Hola! Bienvenido a mi perfil de GitHub
 
-Soy Alexander Pereda, un apasionado por el análisis de datos, la programación y Machine Learning. 🎓 Matemático y Analista de Datos.  
+Soy Alexander Pereda, matemático y apasionado por el Machine Learning y la programación.
 
 ---
 
