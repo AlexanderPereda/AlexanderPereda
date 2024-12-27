@@ -8,12 +8,12 @@ Soy Alexander Pereda, matemático y apasionado por el Machine Learning y la prog
 ## Tecnologías y Herramientas  
 - **Lenguajes:** Python 🐍 | R 📊 | SQL 🛢️  
 - **Visualización:** Power BI 📈 
-- **Otras:** Quarto, Git, Machine Learning 🤖  
+- **Otras:** Quarto, Git
 
 ---
 
 ## Proyectos Destacados    
-- [Peru Salud]([https://github.com/tu_usuario/peru-salud](https://alexanderpereda.github.io/enaho-23-400-salud/main.html): Visualización de indicadores de salud usando Quarto y R.  
+- [Análisis sobre la conducta del peruano ante la enfermedad y/o malestar usando la Enaho 2023]([https://github.com/tu_usuario/peru-salud](https://alexanderpereda.github.io/enaho-23-400-salud/main.html): Visualización de indicadores de salud usando Quarto y R.  
 
 
 ---
