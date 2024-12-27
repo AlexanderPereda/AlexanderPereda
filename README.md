@@ -19,6 +19,6 @@ Soy Alexander Pereda, matemático y apasionado por el Machine Learning y la prog
 ---
 
 ## 🌐 Contacto  
-- **LinkedIn:** [Alexander Pereda]([https://linkedin.com/in/tu_usuario](https://www.linkedin.com/in/axel-alexander-pereda-escalante/))  
+- **LinkedIn:** [Alexander Pereda](https://www.linkedin.com/in/axel-alexander-pereda-escalante/)  
 - **Correo Electrónico:** alexanderperedaescalante@gmail.com  
 
